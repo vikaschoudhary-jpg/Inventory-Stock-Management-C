@@ -1,0 +1,9 @@
+# Compiled executable files
+*.exe
+*.o
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.tmp
